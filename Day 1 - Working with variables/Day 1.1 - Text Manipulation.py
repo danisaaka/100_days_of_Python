@@ -6,3 +6,5 @@ print("Hello World!\nHello World\nText manipulation")
 
 print("Hello " + "Angela")
 print("Hello" + " " + "Isaaka")
+
+print("This is a new line")
