@@ -8,3 +8,5 @@ print("Hello " + "Angela")
 print("Hello" + " " + "Isaaka")
 
 print("This is a new line")
+import random
+
